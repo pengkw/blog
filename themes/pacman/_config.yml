@@ -19,7 +19,7 @@ widgets:
 ## modify links in `/layout/_widget/links.ejs`.
 
 #### RSS
-rss: "http://pengkw.github.io/atom.xml" ## RSS address.
+rss: "/atom.xml" ## RSS address.
 
 #### Image
 imglogo:
@@ -69,8 +69,8 @@ author:
 
 #### Comment
 duoshuo: 
-  enable: false  ## duoshuo.com
-  short_name:    ## duoshuo short name.
+  enable: true  ## duoshuo.com
+  short_name: "pengkw"   ## duoshuo short name.
 
 #### Share button
 jiathis:
